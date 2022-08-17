@@ -17,7 +17,3 @@ type: page
 
 - 2020: [パタヘネの誤りを報告した話](https://speakerdeck.com/msymt/patahenefalsewu-riwobao-gao-sitahua)
 
-
-## Comments
-
-{% include comments.html %}
