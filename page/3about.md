@@ -29,8 +29,9 @@ FuzzingとSymbolic Executionが好きです．
 
 ## WORK EXPERIENCES
 
+- 2022/2 - : 株式会社リチェルカセキュリティ(Part-Time)
 - 2018/6 - 2019/12: 株式会社バードワークス(Part-Time)
-  - 業務内容「webアプリケーション開発」
+  - webアプリケーション開発に従事
 
 ## INTERNSHIP
 
@@ -51,8 +52,8 @@ FuzzingとSymbolic Executionが好きです．
 ## ACTIVITIES
 
 - 2022/8: [セキュリティ・キャンプ 全国大会2022オンライン](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html) Aクラス チューター
-- 2022/4: [Ir0nMaiden × WEST-SEC#9 　8割解けるCTF](https://west-sec.connpass.com/event/238676/) 合同開催・運営・作問
-- 2021/12: [IMCTF 2021](https://github.com/msymt/ctf-writeup/tree/main/imctf2021)  主催・運営・作問
+- 2022/4: [Ir0nMaiden × WEST-SEC#9 　8割解けるCTF](https://west-sec.connpass.com/event/238676/) 合同開催・作問
+- 2021/12: [IMCTF 2021](https://github.com/msymt/ctf-writeup/tree/main/imctf2021)  主催・作問
 - 2021: [セキュリティ・ネクストキャンプ 2021 オンライン](https://www.ipa.go.jp/jinzai/camp/2021/next2021_index.html) 修了
 - 2019: [セキュリティ・ミニキャンプ in 愛知 2019](https://www.security-camp.or.jp/minicamp/aichi2019.html) 修了
 - 2018: [セキュリティ・ミニキャンプ in 岡山 2018](https://www.security-camp.or.jp/minicamp/okayama2018.html) 修了
@@ -71,10 +72,12 @@ FuzzingとSymbolic Executionが好きです．
   - 2017: TOEIC(L&R) IP SCORE: 340
 - 2018/11: 基本情報技術者試験 合格
 
-<!-- ## OSS(Pull Request)
+## OSS Contribution
 
+- [MPU9250](https://github.com/hideakitai/MPU9250/pull/58)
+- [Roskynator](https://github.com/JosefPihrt/Roslynator/pull/936)
+- [Renode Docs](https://github.com/renode/renode-docs/pull/30)
 - [Laelaps](https://github.com/dongmu/Laelaps/pull/1)
-- [MPU9250](https://github.com/hideakitai/MPU9250/pull/58) -->
 
 ## LINKS
 
