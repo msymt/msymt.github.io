@@ -10,36 +10,42 @@
 
 ## Content
 
-* [Preview](#preview)
-* [Page Details](#page-details)
-    * [Home](#home)
-    * [Archives](#archives)
-    * [Categories](#categories)
-    * [Tags](#tags)
-    * [Collections](#collections)
-    * [Demo](#demo)
-    * [About](#about)
-    * [Comments](#comments)
-    * [Post Contents](#post-contents)
-    * [Code Highlight](#code-highlight)
-    * [Light Shadow](#light-shadow)
-    * [Mobile Adaptation](#mobile-adaptation)
-    * [Footer](#footer)
-    * [Statistical Analysis](#statistical-analysis)
-* [Usage](#usage)
-    * [1. Install ruby and jekyll environment](#1-install-ruby-and-jekyll-environment)
-    * [2. Copy theme code](#2-copy-theme-code)
-    * [3. Change parameter](#3-change-parameter)
-        * [Basic info](#basic-info)
-        * [Link info](#link-info)
-        * [Comments info](#comments-info)
-        * [Statistical analysis info](#statistical-analysis-info)
-    * [4. Write post](#4-write-post)
-    * [5. Local launch](#5-local-launch)
-    * [6. Push to GitHub](#6-push-to-github)
-* [Donate](#donate)
-* [Update Log](#update-log)
-* [License](#license)
+- [About this Cool Concise Jekyll Blog Theme](#about-this-cool-concise-jekyll-blog-theme)
+  - [Content](#content)
+  - [Preview](#preview)
+  - [Page Details](#page-details)
+    - [Home](#home)
+    - [Archives](#archives)
+    - [Categories](#categories)
+    - [Tags](#tags)
+    - [Collections](#collections)
+    - [Demo](#demo)
+    - [About](#about)
+    - [Comments](#comments)
+    - [Post Contents](#post-contents)
+    - [Code Highlight](#code-highlight)
+    - [Light Shadow](#light-shadow)
+    - [Mobile Adaptation](#mobile-adaptation)
+    - [Footer](#footer)
+    - [Statistical Analysis](#statistical-analysis)
+  - [Usage](#usage)
+    - [1. Install ruby and jekyll environment](#1-install-ruby-and-jekyll-environment)
+    - [2. Copy theme code](#2-copy-theme-code)
+    - [3. Change parameter](#3-change-parameter)
+      - [Basic info](#basic-info)
+      - [Link info](#link-info)
+      - [Comments info](#comments-info)
+      - [Statistical analysis info](#statistical-analysis-info)
+    - [4. Write post](#4-write-post)
+    - [5. Local launch](#5-local-launch)
+    - [6. Push to GitHub](#6-push-to-github)
+  - [Donate](#donate)
+  - [Update Log](#update-log)
+    - [2017.2.28](#2017228)
+    - [2016.6.20](#2016620)
+    - [2016.5.11 v2.0.1](#2016511-v201)
+    - [2016.4.27 v2.0.0](#2016427-v200)
+  - [License](#license)
 
 ## Preview
 
@@ -185,16 +191,15 @@ Mainly shows at the footer of the site.
 
 ```yml
 # other links
-twitter_username: gaohaoyang126
-facebook_username: gaohaoyang.water
-github_username:  Gaohaoyang
-email: gaohaoyang126@126.com
-weibo_username: 3115521wh
-zhihu_username: gaohaoyang
-linkedIn_username: gaohaoyang
-dribbble_username:
+twitter_username: py65criz
+github_username:  msymt
+# email: gaohaoyang126@126.com
+# weibo_username: 3115521wh
+# zhihu_username: gaohaoyang
+# linkedIn_username: gaohaoyang
+# dribbble_username:
 
-description_footer: 本站记录我前端之旅的沿途风景！
+description_footer:  This site contents the computer science and hacking.
 ```
 
 #### Comments info
