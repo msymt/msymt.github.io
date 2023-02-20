@@ -13,17 +13,19 @@ type: page
 
 FuzzingとSymbolic Executionが好きです．
 
-
 好きなブルワリー: Bale Breaker、Y.MARKET BREWING、くめざくら大山ブルワリー
 
 
 ## EDUCATIONS
 
+- 2023/3: 名古屋大学 情報学研究科 情報システム学専攻 博士前期課程 修了（見込み）
 - 2021/4: 名古屋大学 情報学研究科 情報システム学専攻 博士前期課程 入学
 - 2021/3: 鳥取大学 工学部 電気情報系学科 卒業
 - 2017/4: 鳥取大学 工学部 電気情報系学科 入学
 
 ## PUBLICATIONS
+
+- 2023: 「組込みシステムシミュレータを用いたファジング」元田 匡哉, 伊藤 弘将, 松原 豊, 高田 広章, 組込み技術とネットワークに関するワークショップ ETNET2023，Mar. 2023(発表予定)
 
 - 2020: 「[乾燥地における作物生育の安定化に向けた農家による降雨量データの集積と作物収量予測のためのモバイルアプリケーションの検討](http://id.nii.ac.jp/1001/00207751/)」元田 匡哉, 東野 正幸, 川村 尚生, 近藤 克哉, 坪 充, 第97回MBL・第83回ITS合同研究発表会(2020)
 
@@ -75,9 +77,8 @@ FuzzingとSymbolic Executionが好きです．
 ## OSS Contribution
 
 - [MPU9250](https://github.com/hideakitai/MPU9250/pull/58)
-- [Roskynator](https://github.com/JosefPihrt/Roslynator/pull/936)
+- [Roslynator](https://github.com/JosefPihrt/Roslynator/pull/936)
 - [Renode Docs](https://github.com/renode/renode-docs/pull/30)
-- [Laelaps](https://github.com/dongmu/Laelaps/pull/1)
 
 ## LINKS
 
