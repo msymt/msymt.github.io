@@ -25,9 +25,9 @@ FuzzingとSymbolic Executionが好きです．
 
 ## PUBLICATIONS
 
-- 2023: 「組込みシステムシミュレータを用いたファジング」<u>元田 匡哉</u>, 伊藤 弘将, 松原 豊, 高田 広章, 組込み技術とネットワークに関するワークショップ ETNET2023，Mar. 2023(発表予定)
+- 2023: 「[組込みシステムシミュレータを用いたファジング](http://id.nii.ac.jp/1001/00225409/)」<u>元田 匡哉</u>, 伊藤 弘将, 松原 豊, 高田 広章, 組込み技術とネットワークに関するワークショップ ETNET2023，Mar. 2023
 
-- 2023: 「[RCABench: Open Benchmarking Platform for Root Cause Analysis](https://arxiv.org/abs/2303.05029)」Keisuke Nishimura, Yuichi Sugiyama, Yuki Koike,<u>Masaya Motoda</u>, Tomoya Kitagawa, Toshiki Takatera, and Yuma Kurogome, NDSS BAR 2023, Best Paper Award
+- 2023: 「[RCABench: Open Benchmarking Platform for Root Cause Analysis](https://arxiv.org/abs/2303.05029)」Keisuke Nishimura, Yuichi Sugiyama, Yuki Koike, <u>Masaya Motoda</u>, Tomoya Kitagawa, Toshiki Takatera, and Yuma Kurogome, NDSS BAR 2023, Best Paper Award
 
 - 2020: 「[乾燥地における作物生育の安定化に向けた農家による降雨量データの集積と作物収量予測のためのモバイルアプリケーションの検討](http://id.nii.ac.jp/1001/00207751/)」<u>元田 匡哉</u>, 東野 正幸, 川村 尚生, 近藤 克哉, 坪 充, 第97回MBL・第83回ITS合同研究発表会(2020)
 
