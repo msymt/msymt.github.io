@@ -33,7 +33,7 @@ FuzzingとSymbolic Executionが好きです．
 
 ## WORK EXPERIENCES
 
-- 2022/2 - : 株式会社リチェルカセキュリティ(Part-Time)
+- 2022/2 - 2023/3: 株式会社リチェルカセキュリティ(Part-Time)
 - 2018/6 - 2019/12: 株式会社バードワークス(Part-Time)
   - webアプリケーション開発に従事
 
