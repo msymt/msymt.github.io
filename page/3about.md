@@ -65,6 +65,7 @@ FuzzingとSymbolic Executionが好きです．
 
 ## LIGHTNING TALKS
 
+- 2023: [Coverage Visualizerの紹介](https://speakerdeck.com/msymt/coverage-visualizernoshao-jie)
 - 2022: [ファジングツールAFLがターゲットに入力を送る方法　公開版 セキュリティ・キャンプ 全国大会2022オンライン LT大会](https://speakerdeck.com/msymt/sekiyuriteikiyanpuquan-guo-da-hui-ltda-hui)
 - 2022: [1年間(ほぼ)毎日GitHubの草を生やしてみた セキュリティ・キャンプ交友会2022春 オンライン版 LT](https://speakerdeck.com/msymt/sekiyuriteikiyanpujiao-you-hui-2022chun-onrainban-lt)
 
