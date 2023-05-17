@@ -37,17 +37,6 @@ FuzzingとSymbolic Executionが好きです．
 - 2018/6 - 2019/12: 株式会社バードワークス(Part-Time)
   - webアプリケーション開発に従事
 
-## INTERNSHIP
-
-- 2021/9: パナソニック株式会社 On the Job Trainingタイプ
-  - テーマ「制御システムの脅威分析」
-- 2019/8 - 2019/9: 奈良先端科学技術大学院大学 [iplab](https://iplab.naist.jp/ja/members/interns/)
-  - テーマ「協調型マルウェアの調査」
-
-## WORK SHOP
-
-- 2021/2: NTTコミュニケーションズ サイバー攻撃対応ワークショップ 参加
-
 ## AWARDS
 
 - 成績優秀学生表彰(学部長表彰) - 鳥取大学 工学部 電気情報系学科 令和3年度
@@ -55,6 +44,7 @@ FuzzingとSymbolic Executionが好きです．
 
 ## ACTIVITIES
 
+- 2023-2026(予定): 自動車技術会 サイバーセキュリティ人材発掘・育成に関する組織(WG) 委員
 - 2022/8: [セキュリティ・キャンプ 全国大会2022オンライン](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html) Aクラス チューター
 - 2022/4: [Ir0nMaiden × WEST-SEC#9 　8割解けるCTF](https://west-sec.connpass.com/event/238676/) 合同開催・作問
 - 2021/12: [IMCTF 2021](https://github.com/msymt/ctf-writeup/tree/main/imctf2021)  主催・作問
@@ -70,6 +60,17 @@ FuzzingとSymbolic Executionが好きです．
 - 2022: [1年間(ほぼ)毎日GitHubの草を生やしてみた セキュリティ・キャンプ交友会2022春 オンライン版 LT](https://speakerdeck.com/msymt/sekiyuriteikiyanpujiao-you-hui-2022chun-onrainban-lt)
 
 - 2020: [パタヘネの誤字を報告した話](https://speakerdeck.com/msymt/patahenefalsewu-riwobao-gao-sitahua)
+## INTERNSHIP
+
+- 2021/9: パナソニック株式会社 On the Job Trainingタイプ
+  - テーマ「制御システムの脅威分析」
+- 2019/8 - 2019/9: 奈良先端科学技術大学院大学 [iplab](https://iplab.naist.jp/ja/members/interns/)
+  - テーマ「協調型マルウェアの調査」
+
+## WORK SHOP
+
+- 2021/2: NTTコミュニケーションズ サイバー攻撃対応ワークショップ 参加
+
 ## CERTIFICATE
 
 - 2019/11: TOEIC(L&R) SCORE: 705
