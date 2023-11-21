@@ -45,6 +45,7 @@ FuzzingとSymbolic Executionが好きです．
 ## ACTIVITIES
 
 - 2023-2026(予定): 自動車技術会 サイバーセキュリティ人材発掘・育成に関する組織(WG) 委員
+- 2023/9: [セキュリティ・ミニキャンプ in 山梨 2023](https://www.security-camp.or.jp/minicamp/yamanashi2023.html) 「libFuzzerで始めるファジング入門」講師
 - 2022/8: [セキュリティ・キャンプ 全国大会2022オンライン](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html) Aクラス チューター
 - 2022/4: [Ir0nMaiden × WEST-SEC#9 　8割解けるCTF](https://west-sec.connpass.com/event/238676/) 合同開催・作問
 - 2021/12: [IMCTF 2021](https://github.com/msymt/ctf-writeup/tree/main/imctf2021)  主催・作問
@@ -52,6 +53,10 @@ FuzzingとSymbolic Executionが好きです．
 - 2019: [セキュリティ・ミニキャンプ in 愛知 2019](https://www.security-camp.or.jp/minicamp/aichi2019.html) 修了
 - 2018: [セキュリティ・ミニキャンプ in 岡山 2018](https://www.security-camp.or.jp/minicamp/okayama2018.html) 修了
 - 2017: [Web×IoT メイカーズチャレンジ 2017 in 鳥取](https://webiotmakers.github.io/2017/tottori/) 参加
+
+## ARTICLE
+
+- 2023: [セキュリティ・ミニキャンプ in 山梨 2023 に講師として参加してきました](https://jp.security.ntt/tech_blog/seccamp-yamanashi-2023)
 
 ## LIGHTNING TALKS
 
@@ -67,9 +72,6 @@ FuzzingとSymbolic Executionが好きです．
 - 2019/8 - 2019/9: 奈良先端科学技術大学院大学 [iplab](https://iplab.naist.jp/ja/members/interns/)
   - テーマ「協調型マルウェアの調査」
 
-## WORK SHOP
-
-- 2021/2: NTTコミュニケーションズ サイバー攻撃対応ワークショップ 参加
 
 ## CERTIFICATE
 
