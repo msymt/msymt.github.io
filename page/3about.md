@@ -13,8 +13,6 @@ type: page
 
 FuzzingとSymbolic Executionが好きです．
 
-好きなブルワリー: Bale Breaker、Y.MARKET BREWING、くめざくら大山ブルワリー
-
 
 ## EDUCATIONS
 
