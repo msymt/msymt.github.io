@@ -13,7 +13,6 @@ type: page
 
 FuzzingとSymbolic Executionが好きです．
 
-
 ## EDUCATIONS
 
 - 2023/3: 名古屋大学 情報学研究科 情報システム学専攻 博士前期課程 修了
@@ -31,7 +30,12 @@ FuzzingとSymbolic Executionが好きです．
 
 ## WORK EXPERIENCES
 
+- 2023/4: 株式会社NTTドコモ、NTTセキュリティ・ジャパン株式会社 出向(Full-Time)
 - 2022/2 - 2023/3: 株式会社リチェルカセキュリティ(Part-Time)
+- 2021/9: パナソニック株式会社 On the Job Trainingタイプ(Internship)
+  - テーマ「制御システムの脅威分析」
+- 2019/8 - 2019/9: 奈良先端科学技術大学院大学(Internship) [iplab](https://iplab.naist.jp/ja/members/interns/)
+  - テーマ「協調型マルウェアの調査」
 - 2018/6 - 2019/12: 株式会社バードワークス(Part-Time)
   - webアプリケーション開発に従事
 
@@ -42,7 +46,7 @@ FuzzingとSymbolic Executionが好きです．
 
 ## ACTIVITIES
 
-- 2023-2026(予定): 自動車技術会 サイバーセキュリティ人材発掘・育成に関する組織(WG) 委員
+- 2023: 自動車技術会 サイバーセキュリティ人材発掘・育成に関する組織(WG) 委員
 - 2023/9: [セキュリティ・ミニキャンプ in 山梨 2023](https://www.security-camp.or.jp/minicamp/yamanashi2023.html) 「libFuzzerで始めるファジング入門」講師
 - 2022/8: [セキュリティ・キャンプ 全国大会2022オンライン](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html) Aクラス チューター
 - 2022/4: [Ir0nMaiden × WEST-SEC#9 　8割解けるCTF](https://west-sec.connpass.com/event/238676/) 合同開催・作問
@@ -50,7 +54,6 @@ FuzzingとSymbolic Executionが好きです．
 - 2021: [セキュリティ・ネクストキャンプ 2021 オンライン](https://www.ipa.go.jp/jinzai/camp/2021/next2021_index.html) 修了
 - 2019: [セキュリティ・ミニキャンプ in 愛知 2019](https://www.security-camp.or.jp/minicamp/aichi2019.html) 修了
 - 2018: [セキュリティ・ミニキャンプ in 岡山 2018](https://www.security-camp.or.jp/minicamp/okayama2018.html) 修了
-- 2017: [Web×IoT メイカーズチャレンジ 2017 in 鳥取](https://webiotmakers.github.io/2017/tottori/) 参加
 
 ## ARTICLE
 
@@ -59,16 +62,10 @@ FuzzingとSymbolic Executionが好きです．
 ## LIGHTNING TALKS
 
 - 2023: [Coverage Visualizerの紹介](https://speakerdeck.com/msymt/coverage-visualizernoshao-jie)
-- 2022: [ファジングツールAFLがターゲットに入力を送る方法　公開版 セキュリティ・キャンプ 全国大会2022オンライン LT大会](https://speakerdeck.com/msymt/sekiyuriteikiyanpuquan-guo-da-hui-ltda-hui)
+- 2022: [ファジングツールAFLがターゲットに入力を送る方法 公開版 セキュリティ・キャンプ 全国大会 2022 オンライン LT大会](https://speakerdeck.com/msymt/sekiyuriteikiyanpuquan-guo-da-hui-ltda-hui)
 - 2022: [1年間(ほぼ)毎日GitHubの草を生やしてみた セキュリティ・キャンプ交友会2022春 オンライン版 LT](https://speakerdeck.com/msymt/sekiyuriteikiyanpujiao-you-hui-2022chun-onrainban-lt)
 
 - 2020: [パタヘネの誤字を報告した話](https://speakerdeck.com/msymt/patahenefalsewu-riwobao-gao-sitahua)
-## INTERNSHIP
-
-- 2021/9: パナソニック株式会社 On the Job Trainingタイプ
-  - テーマ「制御システムの脅威分析」
-- 2019/8 - 2019/9: 奈良先端科学技術大学院大学 [iplab](https://iplab.naist.jp/ja/members/interns/)
-  - テーマ「協調型マルウェアの調査」
 
 
 ## CERTIFICATE
