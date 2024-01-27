@@ -46,7 +46,8 @@ FuzzingとSymbolic Executionが好きです．
 
 ## ACTIVITIES
 
-- 2023: 自動車技術会 サイバーセキュリティ人材発掘・育成に関する組織(WG) 委員
+- 2024/1: [公益社団法人 自動車技術会 自動車サイバーセキュリティ講座ハンズオンイベント　実践！CANプロトコル解析](https://www.jsae.or.jp/event/detail/742/) 講師
+- 2023: 公益社団法人 自動車技術会 サイバーセキュリティ講座企画委員会WG 委員
 - 2023/9: [セキュリティ・ミニキャンプ in 山梨 2023](https://www.security-camp.or.jp/minicamp/yamanashi2023.html) 「libFuzzerで始めるファジング入門」講師
 - 2022/8: [セキュリティ・キャンプ 全国大会2022オンライン](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html) Aクラス チューター
 - 2022/4: [Ir0nMaiden × WEST-SEC#9 　8割解けるCTF](https://west-sec.connpass.com/event/238676/) 合同開催・作問
