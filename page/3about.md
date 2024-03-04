@@ -28,6 +28,10 @@ FuzzingとSymbolic Executionが好きです．
 
 - 2020: 「[乾燥地における作物生育の安定化に向けた農家による降雨量データの集積と作物収量予測のためのモバイルアプリケーションの検討](http://id.nii.ac.jp/1001/00207751/)」<u>元田 匡哉</u>, 東野 正幸, 川村 尚生, 近藤 克哉, 坪 充, 第97回MBL・第83回ITS合同研究発表会(2020)
 
+## PRESENTATION
+
+- 2024: 「[XFiles: 悪性MSIX/APPXの大規模分析](https://jsac.jpcert.or.jp/timetable.html), 野村 和也, 吉川 照規, <u>元田 匡哉</u>, JSAC2024
+
 ## WORK EXPERIENCES
 
 - 2023/4: 株式会社NTTドコモ、NTTセキュリティ・ジャパン株式会社 出向(Full-Time)
@@ -56,7 +60,7 @@ FuzzingとSymbolic Executionが好きです．
 - 2019: [セキュリティ・ミニキャンプ in 愛知 2019](https://www.security-camp.or.jp/minicamp/aichi2019.html) 修了
 - 2018: [セキュリティ・ミニキャンプ in 岡山 2018](https://www.security-camp.or.jp/minicamp/okayama2018.html) 修了
 
-## ARTICLE
+## ARTICLES
 
 - 2024: ["実践！CANプロトコル解析"に講師として参加してきました, NTT Security Holdings](https://jp.security.ntt/tech_blog/jsae-scis-2024)
 - 2023: [セキュリティ・ミニキャンプ in 山梨 2023 に講師として参加してきました, NTT Security Holdings](https://jp.security.ntt/tech_blog/seccamp-yamanashi-2023)
