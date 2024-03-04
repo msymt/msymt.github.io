@@ -30,7 +30,7 @@ FuzzingとSymbolic Executionが好きです．
 
 ## PRESENTATION
 
-- 2024: 「[XFiles: 悪性MSIX/APPXの大規模分析](https://jsac.jpcert.or.jp/timetable.html), 野村 和也, 吉川 照規, <u>元田 匡哉</u>, JSAC2024
+- 2024: 「[XFiles: 悪性MSIX/APPXの大規模分析](https://jsac.jpcert.or.jp/timetable.html)」, 野村 和也, 吉川 照規, <u>元田 匡哉</u>, JSAC2024
 
 ## WORK EXPERIENCES
 
