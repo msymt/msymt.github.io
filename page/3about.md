@@ -81,11 +81,18 @@ FuzzingとSymbolic Executionが好きです．
   - 2017: TOEIC(L&R) IP SCORE: 340
 - 2018/11: 基本情報技術者試験 合格
 
-## OSS Contribution
+## OSS CONTRIBUTION
 
 - [MPU9250](https://github.com/hideakitai/MPU9250/pull/58)
 - [Roslynator](https://github.com/JosefPihrt/Roslynator/pull/936)
 - [Renode Docs](https://github.com/renode/renode-docs/pull/30)
+
+## POWERLIFTING
+
+- 2024/06: [第5回新人限定ＴＯＫＹＯパワーリフティング選手権大会](https://powerlifting.tokyo/wp-content/uploads/2024/06/cfb3c2de82d2f536b4787dcf4cd750e4.pdf)
+  - S150-B87.5-D155 (392.5kg), IPF Points:55.03
+- 2024/02: [マッスルゲートin神奈川 パワーコンテスト](https://musclegate.jp/wp-content/uploads/2024/02/MGP2024%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E7%B5%90%E6%9E%9C%E8%A1%A8_merged.pdf)
+  - S132.5-B75-142.5 (350kg)
 
 ## LINKS
 
