@@ -50,6 +50,7 @@ FuzzingとSymbolic Executionが好きです．
 
 ## ACTIVITIES
 
+- 2024/12: [公益社団法人 自動車技術会 自動車サイバーセキュリティ講座ハンズオンイベント　実践！CANプロトコル解析](https://x.com/jsae_Official/status/1868448669135233512) 講師
 - 2024/1: [公益社団法人 自動車技術会 自動車サイバーセキュリティ講座ハンズオンイベント　実践！CANプロトコル解析](https://www.jsae.or.jp/event/detail/742/) 講師
 - 2023-2026(予定): 公益社団法人 自動車技術会 サイバーセキュリティ講座企画委員会WG 委員
 - 2023/9: [セキュリティ・ミニキャンプ in 山梨 2023](https://www.security-camp.or.jp/minicamp/yamanashi2023.html) 「libFuzzerで始めるファジング入門」講師
