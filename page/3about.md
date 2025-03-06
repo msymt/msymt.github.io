@@ -63,6 +63,7 @@ FuzzingとSymbolic Executionが好きです．
 
 ## ARTICLES
 
+- 2024: ["Contagious Interviewが使用する新たなマルウェアOtterCookieについて, NTT Security Holdings](https://jp.security.ntt/tech_blog/contagious-interview-ottercookie)
 - 2024: ["標的型攻撃グループDarkPlumが使用するAsyncRATの亜種について, NTT Security Holdings](https://jp.security.ntt/tech_blog/darkplum-asyncrat)
 - 2024: ["実践！CANプロトコル解析"に講師として参加してきました, NTT Security Holdings](https://jp.security.ntt/tech_blog/jsae-scis-2024)
 - 2023: [セキュリティ・ミニキャンプ in 山梨 2023 に講師として参加してきました, NTT Security Holdings](https://jp.security.ntt/tech_blog/seccamp-yamanashi-2023)
